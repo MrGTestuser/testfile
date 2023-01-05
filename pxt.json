@@ -2,7 +2,8 @@
     "name": "Testfile",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "corgio": "*"
     },
     "files": [
         "main.blocks",
